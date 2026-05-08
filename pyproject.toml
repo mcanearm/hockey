@@ -12,5 +12,6 @@ dependencies = [
     "numpy>=2.4.4",
     "numpyro>=0.20.1",
     "polars>=1.40.1",
+    "ruff>=0.15.12",
     "scikit-learn>=1.8.0",
 ]
